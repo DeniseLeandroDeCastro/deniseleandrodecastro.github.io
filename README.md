@@ -1,8 +1,6 @@
 ## Seja bem-vindo(a)!
 
-You can use the [editor on GitHub](https://github.com/DeniseLeandroDeCastro/deniseleandrodecastro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sou Desenvolvedora Frontend, aluna do curso de Tecnologia em Sistemas para Internet do I.F.R.N. (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte).
 
 ### Markdown
 
